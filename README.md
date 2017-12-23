@@ -9,7 +9,7 @@ An exploration on auto-tiling (rather than meticulously placing a specific tile 
 ### Permissibility
 ![Alt Text](https://github.com/lchsam/ParelthonProjectsGML/blob/master/misc/Permissibility.gif)
 
-This project was to try out if Game Maker Studio, a software for creating games can be used for creating interactive applications that resemble android applications.
+This project was to try out if Game Maker Studio, a software for creating games can be used for creating interactive useful-looking applications
 
 ### TestingCircles
 #### ColorfulCircles
