@@ -21,3 +21,8 @@ I wanted to test out different easing functions and I like circles.
 ![Alt Text](https://github.com/lchsam/ParelthonProjectsGML/blob/master/misc/TestingCirclesPt2.gif)
 
 A playful mock-up of a interface that bares similarity to some kind of operating system's user interface. This was both a test to find out what easing functions can do and how "shaders" worked.
+
+### WeatherApp
+![Alt Text](https://github.com/lchsam/ParelthonProjectsGML/blob/master/misc/WeatherApp.gif)
+
+This was a test to try out how Game Maker's HTTP request events worked and see if I could create something that was not a game.
