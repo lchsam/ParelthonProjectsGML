@@ -54,6 +54,7 @@ x = room_width/2
 image_index = 1;
 //http_get("http://uinames.com/api/?region=germany");
 http_get("http://api.openweathermap.org/data/2.5/weather?q=Boston&amp;units=imperial&amp;appid=5643f2d1f8af9c3f13d275888ca3e4a0");
+// Above key has already been deactivated but is kept as is for reference.
 
 </string>
           </argument>
